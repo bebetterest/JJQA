@@ -1,5 +1,7 @@
 # JJQA: a Chinese QA dataset on the lyrics of JJ Lin's songs
 
+<img src="JJL.jpg" width="50%" height="auto">
+
 **[here](https://github.com/bebetterest/JJQA) for the latest JJQA.**
 
 **JJQA is now available in 🤗Huggingface. ([click here](https://huggingface.co/datasets/hobeter/JJQA))**
