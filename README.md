@@ -1,5 +1,7 @@
 # JJQA: a Chinese QA dataset on the lyrics of JJ Lin's songs
 
+**[PDF](https://www.liyujian.cn/upload/JJQA.pdf)** here.
+
 <center>
 
 <img src="JJL.jpg" width="50%" height="auto">
@@ -7,8 +9,6 @@
 JJ Lin
 
 </center>
-
-**[here](https://github.com/bebetterest/JJQA) for the latest JJQA.**
 
 **JJQA is now available in 🤗Huggingface. ([click here](https://huggingface.co/datasets/hobeter/JJQA))**
 
@@ -170,7 +170,7 @@ Please cite this if your work is motivated from it.
 @misc{JJQA,
   title = {JJQA: a Chinese QA dataset on the lyrics of JJ Lin's songs},
   author = {O.S.R.},
-  howpublished = {\url{https://github.com/bebetterest/JJQA}},
+  howpublished = {\url{https://www.liyujian.cn/upload/JJQA.pdf}},
 }
 ```
 
